@@ -1,0 +1,47 @@
+
+.menue{
+	position: absolute;
+	top: 20px;
+	left: 750px;
+}
+
+.box{
+position: absolute;
+left: 500px;
+
+
+}
+
+
+
+.tablename{
+position: absolute;
+left: 550px;
+color: tomato;
+
+}
+
+
+
+
+.table1{
+
+	position: absolute;
+	height:250px;
+	width: 1200px;
+	left: 100px;
+}
+
+
+
+
+.table2{
+
+position: absolute;
+height:250px;
+	width: 1200px;
+	left: 100px;
+	top: 400px;
+
+
+}
